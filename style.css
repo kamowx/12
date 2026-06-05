@@ -1,0 +1,59 @@
+.hello{
+    background-color: cornflowerblue;
+    width: 100%;
+    height: 50px;
+}
+.stone{
+    width: 100%;
+    background-color: white(190, 54, 54);
+    height: 5px;
+}
+.good{
+    width: 30.5%;
+    height: 50px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    float: left;
+}
+.up{
+    width: 0.4%;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+.go{
+    width: 30.5%;
+    height: 50px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    float: left;
+}
+.cream{
+    width: 0.4%;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+.to{
+    width: 30.3%;
+    height: 50px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    float: left;
+}
+.hi{
+   width: 100%;
+    background-color: rgb(255, 252, 252);
+    height: 100px;
+}
+.ice{
+    width: 100;
+    height: 100px;
+    background-color: aliceblue;
+}
